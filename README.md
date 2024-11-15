@@ -41,19 +41,19 @@ Built using React Native and React Navigation for smooth navigation and animatio
 Below are screenshots of the main features of the app:
 
 ### Home Screen
-![Home Screen](https://via.placeholder.com/400x600.png?text=Home+Screen)  
+![hone](https://github.com/user-attachments/assets/c8039124-91b7-42e1-b202-a2d63268dfaa)
 Landing page where users can choose between admin and student menus.
 
 ### Admin Menu Screen
-![Admin Menu](https://via.placeholder.com/400x600.png?text=Admin+Menu)  
+![admin](https://github.com/user-attachments/assets/e8b15334-f6e4-4637-9a42-75ec712d55a8) 
 Admin controls for managing the canteen’s menu and orders.
 
 ### Student Menu Screen
-![Student Menu](https://via.placeholder.com/400x600.png?text=Student+Menu)  
+![studentmenu](https://github.com/user-attachments/assets/2fef36c6-7b9e-4588-9e9f-df3b37018a21)  
 Food menu displayed for students to browse and place orders.
 
 ### Order Status Screen
-![Order Status](https://via.placeholder.com/400x600.png?text=Order+Status)  
+![WhatsApp Image 2024-11-15 at 20 57 30_4828f3a5](https://github.com/user-attachments/assets/537c965b-ee93-44de-aff5-9e518aff6ae4) 
 Confirmation and celebration screen after an order is successfully placed.
 
 ---
@@ -62,9 +62,7 @@ Confirmation and celebration screen after an order is successfully placed.
 
 Check out the video walkthrough of the app for a detailed overview of how it works:
 
-[Watch the video on Loom](https://www.loom.com/share/example-link)  
-*(Replace with your actual Loom video link)*
-
+https://jmp.sh/s/SnCMvgVzLKY5ePUXPBGK
 ---
 
 ## Setup Instructions
