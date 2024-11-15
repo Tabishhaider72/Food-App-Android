@@ -33,29 +33,6 @@ Built using React Native and React Navigation for smooth navigation and animatio
 - **Menu Management**: Admins can manage the food menu and student orders.
 - **Order Status**: Students can view the status of their orders with a celebratory confetti animation.
 - **Smooth Navigation**: Transition between screens using React Navigation.
-
----
-
-## Screenshots
-
-Below are screenshots of the main features of the app:
-
-### Home Screen
-![hone](https://github.com/user-attachments/assets/c8039124-91b7-42e1-b202-a2d63268dfaa)
-Landing page where users can choose between admin and student menus.
-
-### Admin Menu Screen
-![admin](https://github.com/user-attachments/assets/e8b15334-f6e4-4637-9a42-75ec712d55a8) 
-Admin controls for managing the canteen’s menu and orders.
-
-### Student Menu Screen
-![studentmenu](https://github.com/user-attachments/assets/2fef36c6-7b9e-4588-9e9f-df3b37018a21)  
-Food menu displayed for students to browse and place orders.
-
-### Order Status Screen
-![WhatsApp Image 2024-11-15 at 20 57 30_4828f3a5](https://github.com/user-attachments/assets/537c965b-ee93-44de-aff5-9e518aff6ae4) 
-Confirmation and celebration screen after an order is successfully placed.
-
 ---
 
 ## Loom Video Walkthrough
